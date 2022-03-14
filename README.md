@@ -29,12 +29,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 # Links
 
+Repository URL: [https://github.com/gianmisdev/gianmisdev.github.io.git]
+Live server URL: [https://gianmisdev.github.io/]
+
 ### Useful resources
+
 https://developer.mozilla.org/en-US/docs/Web/CSS
 https://www.w3schools.com/css/default.asp
 
 
 ## Author
+
 - Frontend Mentor - [@gianmisdev](https://www.frontendmentor.io/profile/gianmisdev)
 
 
